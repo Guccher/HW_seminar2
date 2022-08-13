@@ -20,4 +20,15 @@
 // }
 
 
+// Задача № 3
+
+// Console.Write("Input a day of the week: ");
+// int Week = Convert.ToInt32(Console.ReadLine());
+// if (Week > 0 && Week <= 5){
+//     Console.WriteLine("No");
+// }
+// else {
+//     Console.WriteLine("Yes"); 
+// }
+
 
